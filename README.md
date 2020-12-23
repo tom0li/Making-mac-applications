@@ -1,5 +1,25 @@
-# Making-mac-applications
-Making mac applications
+# Making-applications
+## nmap-silent-installation
+nmap silent installation on windows
+
+### Step 0  
+Download nmap.exe(SFX file)
+
+### Step 1  
+run nmap.exe in cmd and the nmap directory will be extracted.
+
+### Step 2  
+cd nmap run nmap.exe
+
+### version
+nmap 7.91
+winpcap 4.13
+
+### Refer
+https://www.lz1y.cn/2019/04/30/Windows%E4%B8%8B%E9%9D%99%E9%BB%98%E5%AE%89%E8%A3%85%E4%BD%BF%E7%94%A8nmap/
+
+
+## Making mac applications
 ## 准备图标
 1. 需要png图片
 2. 设置ico 为icon_128x128@2x
