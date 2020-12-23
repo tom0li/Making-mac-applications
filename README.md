@@ -14,6 +14,9 @@ cd nmap run nmap.exe
 nmap 7.91
 winpcap 4.13
 
+### 如何打包
+winrar general选择 SFX archive，advanced SFX option modes 选择 Hide all 
+
 ### Refer
 https://www.lz1y.cn/2019/04/30/Windows%E4%B8%8B%E9%9D%99%E9%BB%98%E5%AE%89%E8%A3%85%E4%BD%BF%E7%94%A8nmap/
 
